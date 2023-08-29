@@ -18,8 +18,7 @@ Highly motivated individual with a strong foundation in Data Science and Compute
 
 ## Experience
 ### Data Science Intern
-**Verzeo** - Hyderabad, India
-* April 2021 - June 2021
+**Verzeo** - Hyderabad, India (April 2021 - June 2021)
 - Participated in a team-based environment where we worked on the Ageing sign detection project. 
 - Identified the various signs on the faces using Image processing and Deep learning techniques.
 
