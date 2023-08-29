@@ -10,11 +10,11 @@ Highly motivated individual with a strong foundation in Data Science and Compute
 ## Education
 ### Master of Science in Data Science
 **University Of Maryland Baltimore County** - Baltimore, Maryland
-* Expected Graduation: May 2024*
+* Expected Graduation: May 2024
 
 ### Bachelor of Engineering in Computer Science
 **Mahatma Gandhi Institute of Technology** - Hyderabad, Telangana, India
-*Graduated: July 2022*
+* Graduated: July 2022
 
 ## Experience
 ### Data Science Intern
