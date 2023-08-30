@@ -1,6 +1,14 @@
+<div align="center">
+  <img src="https://github.com/narasimhachikkala/UMBC-DATA606-FALL2023-THURSDAY/assets/75675597/9df4a56c-1f2e-4e80-b9f2-691d3bab874c" alt="PS MANIKANTAVIJAYASRI" width="200" style="border-radius: 50%;"/>
+</div>
 
-# PS MANIKANTAVIJAYASRI NARASIMHANAIDU CHIKKALA
-<img src="https://github.com/narasimhachikkala/UMBC-DATA606-FALL2023-THURSDAY/assets/75675597/9df4a56c-1f2e-4e80-b9f2-691d3bab874c" width="200" height="200">
+<div align="center">
+  <h1>PS MANIKANTAVIJAYASRI NARASIMHANAIDU CHIKKALA</h1>
+<!-- </div> -->
+
+<!-- <div align="center"> -->
+  Baltimore County, MD | [LinkedIn](https://www.linkedin.com/in/narasimha-naidu-chikkala) | +1 (240)-921-8135 | narasimhanaiduch45@gmail.com | [GitHub](https://github.com/narasimhachikkala)
+</div>
 
 
 ## Summary
@@ -57,8 +65,3 @@ Highly motivated individual with a strong foundation in Data Science and Compute
 - Listening Music and Playing Video games
 - Playing cricket
 - Exploring new cuisines
-
-## Contact
-- Email: narasimhanaiduch45@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/narasimha-naidu-chikkala)
-- GitHub: [GitHub Profile](https://github.com/narasimhachikkala)
